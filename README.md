@@ -1,1 +1,1 @@
-# new-project-templats
+# new-project-templates
